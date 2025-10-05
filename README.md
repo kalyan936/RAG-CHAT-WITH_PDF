@@ -38,9 +38,10 @@ Comparison: Perform structured comparisons for specific queries.
 
 ## 🏗️ Installation Steps
 
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/kalyan936/RAG-CHAT-WITH_PDF/edit/main/README.md
 
 2. Install all the required dependencies
 
 3. Run the note book file in your visual studio code.
+
 
